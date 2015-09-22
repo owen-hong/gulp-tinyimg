@@ -7,14 +7,21 @@
     "email": "520UED.com@gmail.com",
     "url": "http://520UED.com"
   },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/owen-hong/gulp-tinyimg"
+  },
   "license": "MIT",
   "main": "index.js",
   "scripts": {
     "test": "gulp"
   },
+  "files": [
+    "index.js"
+  ],
   "repository": {
     "type": "git",
-    "url": "git@github.com:akoenig/gulp-svg2png.git"
+    "url": "https://github.com/owen-hong/gulp-tinyimg.git"
   },
   "keywords": [
     "gulpplugin",
@@ -31,11 +38,10 @@
     "png"
   ],
   "bugs": {
-    "url": "https://520ued.com"
+    "url": "https://github.com/owen-hong/gulp-tinyimg/issues"
   },
-  "homepage": "http://520ued.com/tools/rem",
+  "homepage": "https://github.com/owen-hong/gulp-tinyimg/",
   "dependencies": {
-    "extend": "^3.0.0",
     "tinify": "^1.1.1",
     "gulp-util": "^3.0.6",
     "through2": "^2.0.0"
