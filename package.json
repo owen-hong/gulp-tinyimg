@@ -1,0 +1,43 @@
+{
+  "name": "gulp-tinyimg-compress",
+  "version": "0.0.1",
+  "description": "gulp plugin to compress images using tinyjpg api.",
+  "author": {
+    "name": "Owen Hong",
+    "email": "520UED.com@gmail.com",
+    "url": "http://520UED.com"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:akoenig/gulp-svg2png.git"
+  },
+  "keywords": [
+    "gulpplugin",
+    "tinyjpg",
+    "tinypng",
+    "image",
+    "img",
+    "picture",
+    "photo",
+    "minify",
+    "minifier",
+    "compress",
+    "jpg",
+    "png"
+  ],
+  "bugs": {
+    "url": "https://520ued.com"
+  },
+  "homepage": "http://520ued.com/tools/rem",
+  "dependencies": {
+    "extend": "^3.0.0",
+    "tinify": "^1.1.1",
+    "gulp-util": "^3.0.6",
+    "through2": "^2.0.0"
+  }
+}
