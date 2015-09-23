@@ -1,5 +1,5 @@
 {
-  "name": "gulp-tinyimg-compress",
+  "name": "gulp-tinyimg",
   "version": "0.0.1",
   "description": "gulp plugin to compress images using tinyjpg api.",
   "author": {
