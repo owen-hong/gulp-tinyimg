@@ -1,6 +1,6 @@
 {
   "name": "gulp-tinyimg",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "gulp plugin to compress images using tinyjpg api.",
   "author": {
     "name": "Owen Hong",
@@ -17,7 +17,8 @@
     "test": "gulp"
   },
   "files": [
-    "index.js"
+    "index.js",
+    "lib"
   ],
   "repository": {
     "type": "git",

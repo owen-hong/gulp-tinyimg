@@ -8,8 +8,9 @@ npm install gulp-tinyimg
 
 
 ##使用
+<p>
 先到 [tinypng developers](https://tinypng.com/developers) 申请开发者 API key，每个月有500张免费使用的机会。
-
+</p>
 ```javascript
 var gulp = require('gulp');
 var tinyimg = require('gulp-tinyimg');
